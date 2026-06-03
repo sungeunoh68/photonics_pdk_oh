@@ -3,3 +3,9 @@
 # type this in the powershell terminal (or in the visual code terminal)
 
 python -m pip install openpyxl pandas pathlib lumapi numpy
+
+
+# when you need to push to github
+
+git remote set-url origin https://sungeunoh68@github.com/sungeunoh68/photonics_pdk_oh.git
+git push -u origin main
