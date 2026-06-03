@@ -1,0 +1,5 @@
+# Must first install the following packages to use photonics_pdk_oh
+# example) C:\Users\clapc\AppData\Local\Python\bin\python.exe -m pip install openpyxl pandas
+# type this in the powershell terminal (or in the visual code terminal)
+
+python -m pip install openpyxl pandas pathlib lumapi numpy
